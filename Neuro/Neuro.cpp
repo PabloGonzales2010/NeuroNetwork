@@ -171,7 +171,7 @@ int main()
     std::vector<std::vector<double>> x;
     std::vector<std::vector<double>> y;
     std::vector<std::vector<std::string>> xs;
-    std::ifstream in("../train.csv");
+    std::ifstream in("../mnist_train.csv");
     std::string line;
     for (int i = 0; i < 3000; i++){
         getline(in, line);
@@ -196,7 +196,7 @@ int main()
     std::vector<std::vector<double>> xtest;
     std::vector<std::vector<double>> ytest;
     std::vector<std::vector<std::string>> tests;
-    std::ifstream intest("../test.csv");
+    std::ifstream intest("../mnist_test.csv");
     for (int i = 0; i < 2000; i++) {
         getline(intest, line);
         tests.push_back(split(line, ','));
