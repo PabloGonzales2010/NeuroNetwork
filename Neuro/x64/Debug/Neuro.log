@@ -1,0 +1,11 @@
+﻿  Neuro.cpp
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(38,39): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(39,23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(39,63): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(41,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(57,48): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(88,25): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(96,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(118,25): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\ЯРУСКИЙ\source\repos\Neuro\Neuro.cpp(134,45): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+  Neuro.vcxproj -> C:\Users\ЯРУСКИЙ\source\repos\Neuro\x64\Debug\Neuro.exe

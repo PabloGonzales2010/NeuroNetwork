@@ -1,0 +1,30 @@
+﻿  Neuro.cpp
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(26,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(27,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(28,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(32,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(40,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(40,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(41,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(41,63): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(43,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(44,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(45,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(50,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(51,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(53,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(59,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(69,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(84,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(98,26): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(103,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(107,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(114,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(131,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(137,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(181,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(183,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(205,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\resid\Desktop\ai c++\Neuro\Neuro.cpp(207,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Neuro.vcxproj -> C:\Users\resid\Desktop\ai c++\Neuro\Debug\Neuro.exe
